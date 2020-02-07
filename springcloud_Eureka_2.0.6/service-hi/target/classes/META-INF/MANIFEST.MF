@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: service-hi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.forezp
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sc-f-chapter1/service-hi
+Created-By: Maven Integration for Eclipse
+

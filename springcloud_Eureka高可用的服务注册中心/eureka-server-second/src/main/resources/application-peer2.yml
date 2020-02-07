@@ -1,0 +1,13 @@
+server:
+  port: 8769
+eureka:
+  instance:
+  #spring cloud eureka默认是使用hostname进行注册的，如果要使用ip注册，可以这样设置
+    prefer-ip-address: true
+    ip-address: localhost
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+spring:
+  application:
+    name: eurka-server-second      
